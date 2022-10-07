@@ -1,0 +1,22 @@
+{
+  "name": "stripeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "newrelic": "^9.2.0",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.15",
+    "stripe": "^8.216.0",
+    "winston": "^3.8.2"
+  }
+}

@@ -1,0 +1,5 @@
+{"level":"error","message":"XXXStarted the payment app.","service":"user-service"}
+{"level":"error","message":"API Error:ReferenceError: customer is not defined","service":"user-service"}
+{"level":"error","message":"API Error:ReferenceError: customer is not defined","service":"user-service"}
+{"level":"error","message":"API Error:ReferenceError: customer is not defined","service":"user-service"}
+{"level":"error","message":"Charges creation failed for charge id [ch_3Lq69RIERNnhtuRy1hEW02F0]","service":"user-service"}

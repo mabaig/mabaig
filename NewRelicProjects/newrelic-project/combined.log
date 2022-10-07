@@ -1,0 +1,40 @@
+{"level":"info","message":"Hey","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic loaded.","service":"user-service"}
+{"level":"info","message":"Customer created.","service":"user-service"}
+{"level":"info","message":"charges created.","service":"user-service"}
+{"level":"error","message":"XXXStarted the payment app.","service":"user-service"}
+{"level":"info","message":"new relic loaded.","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic loaded.","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic agent loaded.","service":"user-service"}
+{"level":"info","message":"Server created Successfully","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic agent loaded.","service":"user-service"}
+{"level":"info","message":"Server created Successfully","service":"user-service"}
+{"level":"info","message":"Customer created.","service":"user-service"}
+{"level":"error","message":"API Error:ReferenceError: customer is not defined","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic agent loaded.","service":"user-service"}
+{"level":"info","message":"Server created Successfully","service":"user-service"}
+{"level":"info","message":"Customer created. Customer id [cus_MZEORhjdeJfhEf]","service":"user-service"}
+{"level":"error","message":"API Error:ReferenceError: customer is not defined","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic agent loaded.","service":"user-service"}
+{"level":"info","message":"Server created Successfully","service":"user-service"}
+{"level":"info","message":"Customer created. Customer id [cus_MZERU2hmaTfOhX]","service":"user-service"}
+{"level":"error","message":"API Error:ReferenceError: customer is not defined","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic agent loaded.","service":"user-service"}
+{"level":"info","message":"Server created Successfully","service":"user-service"}
+{"level":"info","message":"Started the payment app.","service":"user-service"}
+{"level":"info","message":"new relic agent loaded.","service":"user-service"}
+{"level":"info","message":"Server created Successfully","service":"user-service"}
+{"level":"info","message":"Customer created. Customer id [cus_MZEcZXdyZPzFN8]","service":"user-service"}
+{"level":"error","message":"Charges creation failed for charge id [ch_3Lq69RIERNnhtuRy1hEW02F0]","service":"user-service"}
+{"level":"info","message":"Started creating customer","service":"user-service"}
+{"level":"info","message":"Customer:{\"id\":\"cus_MZEeoDyAg6ANCp\",\"object\":\"customer\",\"address\":null,\"balance\":0,\"created\":1665109268,\"currency\":null,\"default_currency\":null,\"default_source\":null,\"delinquent\":false,\"description\":\"Test Customer 6oct 2(created for API docs)\",\"discount\":null,\"email\":\"m.baig162@gmail.com\",\"invoice_prefix\":\"0186F5A1\",\"invoice_settings\":{\"custom_fields\":null,\"default_payment_method\":null,\"footer\":null,\"rendering_options\":null},\"livemode\":false,\"metadata\":{},\"name\":\"Demo Customer Newrelic\",\"next_invoice_sequence\":1,\"phone\":null,\"preferred_locales\":[],\"shipping\":null,\"tax_exempt\":\"none\",\"test_clock\":null}","service":"user-service"}
+{"level":"info","message":"Customer created with idcus_MZEeoDyAg6ANCp","service":"user-service"}
+{"level":"info","message":"Payment method idpm_1Lq6BUIERNnhtuRyZN7F7BCL","service":"user-service"}
+{"level":"info","message":"Payment method idpm_1Lq6BUIERNnhtuRyZN7F7BCL","service":"user-service"}
